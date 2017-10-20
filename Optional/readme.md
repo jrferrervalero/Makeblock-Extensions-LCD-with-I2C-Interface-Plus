@@ -1,1 +1,1 @@
-Scanner I2C Arduino is a support program to know which is the address of your I2C 
+Scanner I2C Arduino is a Support Arduino Program to know which is I2c Address.
